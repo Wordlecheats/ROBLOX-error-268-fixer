@@ -67,13 +67,13 @@ Once the process completes, your system will have a fresh network configuration,
 **A:** This error is typically caused when ROBLOX detects suspicious or unusual activity from your client. It could be due to corrupted data, cached files, or network misconfigurations. This tool helps resolve those issues by resetting your cache and network settings.
 
 ### Q: Why did I get this error? Was I flagged for cheating?
-**A:** No, getting this error does not mean you’ve been flagged for cheating. It usually happens due to network issues or corrupted cache. This tool helps resolve such issues quickly.
+**A:** Yes, u did. Sometimes, ROBLOX makes mistakes, and reports a (for example) glitched hitbox as a cheat. Sometimes it can flag interrupted network connections, where the game serverside can't keep up with the client-side.
 
 ### Q: Is this tool safe to use?
 **A:** Yes, the tool is completely safe. It only clears internet cache and resets network settings. It does **not** alter any personal files or ROBLOX data.
 
-### Q: Can I use this on macOS?
-**A:** This tool is currently only compatible with **Windows** operating systems (Windows 7, 8, 10, and 11). A macOS version is not available at the moment.
+### Q: Can I use this on macOS or Linux?
+**A:** This tool is currently only compatible with **Windows** operating systems (Windows 7, 8, 10, and 11). There is no "universal" version available at the moment.
 
 ---
 
